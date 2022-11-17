@@ -1,0 +1,45 @@
+.bgimg{
+    background-image: url("https://media.istockphoto.com/id/612011684/photo/frame-of-fresh-vegetables-on-wooden-background-with-copy-space.jpg?s=170667a&w=0&k=20&c=h8i8F9obW7HiDzETuvr0t6D4Ta29jRvwC3LihRDTZRE=");
+    height: 120vh;
+    background-size: cover;
+}
+.mealshead{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+}
+.layoutcard{
+    background-color:rgb(97, 0, 139);
+    border-radius: 8px;
+    padding: 18px;
+    margin: 15px;
+}
+.mealscont{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+.mealspara{
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.paneerimg{
+    width: 155px;
+    height: 130px;
+}
+.vegpalimg{
+    width: 150px;
+    height: 132px;
+}
+.mealsimg{
+    width: 145px;
+    height: 125px;
+}
+.mealimg{
+    width: 232px;
+    height: 135px;
+}
